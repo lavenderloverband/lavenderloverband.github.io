@@ -1,2 +1,2 @@
-# lavenderloverband.github.io
-lavenderlover.net
+# Lavender Lover
+[Follow us](https://hyperfollow.com/lavenderlover)
