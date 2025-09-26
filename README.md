@@ -1,2 +1,2 @@
-# -lavenderloverband.github.io
+# lavenderloverband.github.io
 lavenderlover.net
