@@ -11,5 +11,3 @@ Members:
 - Nick - Guitar
 - Joan - Bass, Vocals
 - Kiley - Drums
-
-</span>
