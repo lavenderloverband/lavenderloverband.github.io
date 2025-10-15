@@ -2,11 +2,12 @@
 
 ...is a new indie/alternative band based in Columbus, OH.
 
+#News
 First release _Sheep's Clothing_ to come by the end of 2025.
 
 [Follow us](https://hyperfollow.com/lavenderlover) to stay in touch!
 
-Members:
+#Members
 - [Ziggy](./members/ziggy.md) - Lead Vocals 
 - [Nick](./members/nick.md) - Guitar
 - [Joan](./members/joan.md) - Bass, Backing Vocals
