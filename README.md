@@ -1,6 +1,6 @@
 <a href="https://i.imgur.com/QewchWI.jpeg"><img src="https://i.imgur.com/QewchWI.jpeg" style="width: 500px; max-width: 100%; height: auto" title="Lavender Lover logo" />
 
-...is a new indie/alternative band based in Columbus, OH.
+...is a new indie/alternative rock band based in Columbus, OH.
 
 # News
 First release _Sheep's Clothing_ to come by the end of 2025.
