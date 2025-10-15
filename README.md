@@ -2,7 +2,7 @@
 
 ...is a new indie/alternative band based in Columbus, OH.
 
-First release to come by the end of 2025.
+First release _Sheep's Clothing_ to come by the end of 2025.
 
 [Follow us](https://hyperfollow.com/lavenderlover) to stay in touch!
 
