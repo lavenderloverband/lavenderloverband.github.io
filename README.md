@@ -7,7 +7,7 @@ First release to come by the end of 2025.
 [Follow us](https://hyperfollow.com/lavenderlover) to stay in touch!
 
 Members:
-- Ziggy - Vocals 
-- Nick - Guitar
-- Joan - Bass, Vocals
-- Kiley - Drums
+- [Ziggy](./members/ziggy.md) - Lead Vocals 
+- [Nick](./members/nick.md) - Guitar
+- [Joan](./members/joan.md) - Bass, Backing Vocals
+- [Kiley](./members/kiley.md) - Drums
